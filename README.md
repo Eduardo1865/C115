@@ -8,6 +8,7 @@ para que a atividade funcione utilize os seguintes comandos:<br>
 ```bash
 python servidor.py
 ```
+
 ```bash
 python cliente.py
 ```
