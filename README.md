@@ -6,12 +6,8 @@ uma conexão cliente/server simples feita em python <br>
 para que a atividade funcione utilize os seguintes comandos:<br>
 
 ```markdown
-
 ```bash
 python servidor.py
-```
-
-```bash
 python cliente.py
 ```
 ```
